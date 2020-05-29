@@ -4,8 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CafeMain-Admin</title>
+    <title>Cafe Setting</title>
     <link rel="stylesheet" href="cafe_main.css">
+    <link rel="stylesheet" href="cafe_setting.css">
 </head>
 
 <body>
@@ -15,11 +16,14 @@
             <a href="" id="logo">SSG-GA</a>
             <div id="nav-menu">
                 <a href="" id="profile">Profile</a>
+                <a href="" id="setting">Setting</a>
                 <a href="" id="log-out">Log Out</a>
             </div>
         </div>
         
-        <a href="./cafe_main.html"><div id="main-banner">메인 배너</div></a>
+        <div id="main-banner">
+            <input type="submit" class="setting-button" id="setting-banner" value="배너 바꾸기">
+        </div>
 
         <div id="content-area">
 
@@ -48,11 +52,15 @@
                         <ul><a href="">자유게시판</a></ul>
                     </div>
                 </div>
+                <input type="submit" class="setting-button" id="add-menu" value="게시판 추가">
             </div>
 
             <div id="main-group">
-                <div id="main-content">카페에 오신 것을 환영합니다</div>
+                <div id="main-content">
+                    <input type="submit" class="setting-button" id="main-content-decorate" value="대문 꾸미기">
+                </div>
                 <div id="cafe-contents">전체글보기</div>
+                <a href="./cafe_main.html"><input type="submit" class="setting-button" id="change-save" value="변경 완료"></a>
             </div>
 
         </div>
@@ -60,6 +68,5 @@
     </div>
 
 </body>
-
 
 </html>
