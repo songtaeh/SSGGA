@@ -23,4 +23,4 @@ SSG-GA는 외국인들을 위한 Online Community Builder 입니다
 다른 커뮤니티가 가진 단점은 보완하고 장점은 살린 효율적인 커뮤니티를 구축하고자 합니다
 
 ### 페이지 구성 링크 -google slides
-https://docs.google.com/presentation/d/1r-XceJ52G-KHq7I1HbDNp5pDas1UBQ2gbfxRF89i12U/edit#slide=id.p
+https://docs.google.com/presentation/d/1r-XceJ52G-KHq7I1HbDNp5pDas1UBQ2gbfxRF89i12U/edit#slide=id.p 
