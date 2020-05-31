@@ -25,5 +25,5 @@ SSG-GA는 외국인들을 위한 Online Community Builder 입니다
 ### 페이지 구성 링크 -google slides
 https://docs.google.com/presentation/d/1r-XceJ52G-KHq7I1HbDNp5pDas1UBQ2gbfxRF89i12U/edit#slide=id.p 
 
-####장고로 게시판 만들기
+#### 장고로 게시판 만들기
 https://cntechsystems.tistory.com/85?category=817164
