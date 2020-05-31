@@ -27,3 +27,6 @@ https://docs.google.com/presentation/d/1r-XceJ52G-KHq7I1HbDNp5pDas1UBQ2gbfxRF89i
 
 #### 장고로 게시판 만들기
 https://cntechsystems.tistory.com/85?category=817164
+
+#### github로 협업하기
+https://victorydntmd.tistory.com/91
